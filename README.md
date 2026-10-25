@@ -1,6 +1,6 @@
 # LuckPerms — BTC Fork
 
-Fork de **[LuckPerms](https://github.com/LuckPerms/LuckPerms)** (lucko), adapté au serveur **BornToCraft** — Paper / Folia **26.2**.
+Fork de **[LuckPerms](https://github.com/LuckPerms/LuckPerms)** (lucko), adapté au serveur **BornToCraft** — Paper / Folia **26.3**.
 
 ## Nos ajouts / correctifs BTC
 - **Support Folia** natif : `FoliaSchedulerAdapter` (scheduler régionalisé).
@@ -12,4 +12,4 @@ Fork de **[LuckPerms](https://github.com/LuckPerms/LuckPerms)** (lucko), adapté
 ```
 
 ---
-Base upstream : `LuckPerms/LuckPerms` · cible Minecraft **26.2**
+Base upstream : `LuckPerms/LuckPerms` · cible Minecraft **26.3**
