@@ -32,7 +32,7 @@ import net.luckperms.api.context.ContextSet;
 import net.luckperms.api.context.ImmutableContextSet;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
-import org.checkerframework.checker.nullness.qual.NonNull;
+import org.jspecify.annotations.NonNull;
 
 public class FoliaPlayerCalculator implements ContextCalculator<Player> {
     private final LPBukkitPlugin plugin;

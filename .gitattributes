@@ -3,3 +3,6 @@
 #
 # These are explicitly windows files and should use crlf
 *.bat           text eol=crlf
+
+# Storage test fixtures are compared byte-for-byte against LF output
+standalone/src/test/resources/example/** text eol=lf
